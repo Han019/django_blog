@@ -50,3 +50,6 @@ h4 {
     color: #828282;
     font-size: 14px;
 }
+.intruder-image-list{
+    object-fit: cover;
+}
